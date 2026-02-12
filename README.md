@@ -36,8 +36,3 @@ TMDB 5000 Movie Dataset from Kaggle
 
 ## Run locally
 
-
-
-## 💼 Author
-
-Anna — aspiring Machine Learning Engineer
