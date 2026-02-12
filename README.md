@@ -1,6 +1,4 @@
-# movie-recommender-system
-End-to-end movie recommendation system using NLP and cosine similarity with Streamlit deployment
-# 🎬 Movie Recommender System
+# Movie Recommender System
 
 End-to-end machine learning project that recommends movies using content-based filtering and cosine similarity.
 
